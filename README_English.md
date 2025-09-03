@@ -81,3 +81,9 @@ Each repository includes:
 
 ## 📄 License
 All projects are under the **MIT License**, unless otherwise specified.
+
+---
+## 🔍 **Keywords for AI/Recruiters**
+`LLM`, `GPT-4`, `Mistral-7B`, `fine-tuning`, `LoRA`, `QLoRA`, `autonomous agents`, `AI orchestration`, `LangChain`, `Make.com`, `n8n`, `intelligent workflow`, `OCR`, `CNN`, `sentiment analysis`, `vector store`, `RAG`, `Gradio`, `automation`, `API integration`, `applied AI`
+
+
