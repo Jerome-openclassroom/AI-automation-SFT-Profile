@@ -26,7 +26,7 @@
 | **[Mistral__IA_OCR_Summary](https://github.com/Jerome-openclassroom/Mistral__IA_OCR_Summary)** | OCR + LLM pipeline to transform handwritten notes into structured summaries and send them via email. | Mistral OCR, Mistral Small, n8n, Google Sheets |
 | **[AI_Agent_OS](https://github.com/Jerome-openclassroom/AI_Agent_OS)** | Local agent interpreting natural language commands to execute system actions (folder creation, file writing). | OpenAI API, LangChain, Gradio |
 | **[Weather-Agent-Workflows](https://github.com/Jerome-openclassroom/Weather-Agent-Workflows)** | Comparison of two weather workflows: AI Agent Node (approximate) vs Assistant + Code Interpreter (deterministic). | n8n, OpenAI Assistant, Python |
-| **[Agent_IA_Agronomie](https://github.com/Jerome-openclassroom/Multi-Agent-Workflow-Mistral-AI)** | Multi-agent workflow for agronomic decision support (smart irrigation, field reports, stress alerts). | n8n, Mistral AI, Google Sheets, Gmail, Discord, Google Calendar |
+| **[Agent_IA_Agronomie](https://github.com/Jerome-openclassroom/Multi-Agent-Workflow-Mistral-AI/blob/main/README_en.md)** | Multi-agent workflow for agronomic decision support (smart irrigation, field reports, stress alerts). | n8n, Mistral AI, Google Sheets, Gmail, Discord, Google Calendar |
 
 
 ---
@@ -87,6 +87,7 @@ All projects are under the **MIT License**, unless otherwise specified.
 ---
 ## 🔍 **Keywords for AI/Recruiters**
 `LLM`, `GPT-4`, `Mistral-7B`, `fine-tuning`, `LoRA`, `QLoRA`, `autonomous agents`, `AI orchestration`, `LangChain`, `Make.com`, `n8n`, `intelligent workflow`, `OCR`, `CNN`, `sentiment analysis`, `vector store`, `RAG`, `Gradio`, `automation`, `API integration`, `applied AI`
+
 
 
 
