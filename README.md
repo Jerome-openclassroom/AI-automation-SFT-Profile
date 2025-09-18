@@ -27,6 +27,7 @@
 | **[AI_Agent_OS](https://github.com/Jerome-openclassroom/AI_Agent_OS)** | Agent local interprétant des commandes en langage naturel pour exécuter des actions système (création de dossiers, écriture de fichiers). | OpenAI API, LangChain, Gradio |
 | **[Weather-Agent-Workflows](https://github.com/Jerome-openclassroom/Weather-Agent-Workflows)** | Comparaison de deux workflows météo : AI Agent Node (approximatif) vs Assistant + Code Interpreter (déterministe). | n8n, OpenAI Assistant, Python |
 | **[Agent_IA_Agronomie](https://github.com/Jerome-openclassroom/Multi-Agent-Workflow-Mistral-AI)** | Workflow multi-agents pour l’aide à la décision agronomique (irrigation raisonnée, bilans, alertes). | n8n, Mistral AI, Google Sheets, Gmail, Discord, Google Calendar |
+| **[workflow_agents](https://github.com/Jerome-openclassroom/workflow_agents)** | Workflow multi-agents dynamique (prompts dynamiques) avec coordination GPT-5 / GPT-4o, logging scientifique et intégrations concrètes (météo, éphéméride, rayonnement solaire, Gmail, Discord). | n8n, GPT-5, GPT-4o, Google Sheets, Gmail, Discord, WeatherAPI, Open-Meteo |
 
 ---
 
@@ -86,6 +87,7 @@ Tous les projets sont sous **licence MIT**, sauf mention contraire.
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `LLM`, `GPT-4`, `Mistral-7B`, `fine-tuning`, `LoRA`, `QLoRA`, `agents autonomes`, `orchestration IA`, `LangChain`, `Make.com`, `n8n`, `workflow intelligent`, `OCR`, `CNN`, `analyse de sentiment`, `vector store`, `RAG`, `Gradio`, `automatisation`, `intégration API`, `IA appliquée`
+
 
 
 
