@@ -29,6 +29,8 @@
 | **[Agent_IA_Agronomie](https://github.com/Jerome-openclassroom/Multi-Agent-Workflow-Mistral-AI)** | Workflow multi-agents pour l’aide à la décision agronomique (irrigation raisonnée, bilans, alertes). | n8n, Mistral AI, Google Sheets, Gmail, Discord, Google Calendar |
 | **[workflow_agents](https://github.com/Jerome-openclassroom/workflow_agents)** | Workflow multi-agents dynamique (prompts dynamiques) avec coordination GPT-5 / GPT-4o, logging scientifique et intégrations concrètes (météo, éphéméride, rayonnement solaire, Gmail, Discord). | n8n, GPT-5, GPT-4o, Google Sheets, Gmail, Discord, WeatherAPI, Open-Meteo |
 | **[cyber_gouvernance_data](https://github.com/Jerome-openclassroom/cyber_governance_data)** | Workflow de cybersécurité et gouvernance des données avec vérification d’intégrité (SHA256), alertes automatiques, supervision HITL et rollback sécurisé. Intègre un RAG pour identifier les contacts, Gmail pour les alertes, et Google Sheets pour la référence des scripts. | n8n, GPT-5, Google Sheets, Gmail, RAG, Crypto, HITL |
+| **[QueryWhisper](https://github.com/Jerome-openclassroom/QueryWhisper)** | Assistant NLP2SQL basé sur **Mistral IA (Mistral Large 2)** pour les bases de données d’entreprise. Les questions en langage naturel sont automatiquement converties en requêtes SQL et exécutées en temps réel sur une base MySQL. Inclut une procédure stockée, un trigger, une interface Gradio et des démonstrations animées. | Mistral IA (Large 2), MySQL, Gradio |
+
 
 
 ---
@@ -89,6 +91,7 @@ Tous les projets sont sous **licence MIT**, sauf mention contraire.
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `LLM`, `GPT-4`, `Mistral-7B`, `fine-tuning`, `LoRA`, `QLoRA`, `agents autonomes`, `orchestration IA`, `LangChain`, `Make.com`, `n8n`, `workflow intelligent`, `OCR`, `CNN`, `analyse de sentiment`, `vector store`, `RAG`, `Gradio`, `automatisation`, `intégration API`, `IA appliquée`
+
 
 
 
