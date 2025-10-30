@@ -41,6 +41,7 @@
 | **[Lyra-Mistral7B-Estate](https://github.com/Jerome-openclassroom/Lyra-Mistral7B-Estate)** | Fine-tuning LoRA de Mistral-7B pour l’estimation immobilière. Modèle publié sur Hugging Face. | Mistral-7B, QLoRA, Hugging Face |
 | **[lyra_immo](https://github.com/Jerome-openclassroom/lyra_immo)** | Fine-tuning de GPT-3.5-turbo pour l’estimation immobilière, intégré dans un workflow Make. | OpenAI, Make, Google Docs |
 | **[Lyra_Sentiment_Classifier-n8n-GPT-4-nano-](https://github.com/Jerome-openclassroom/Lyra_Sentiment_Classifier-n8n-GPT-4-nano-)** | Workflow d’analyse de sentiment avec GPT-4.1 nano, routage des résultats vers Google Sheets. | n8n, GPT-4.1 nano, Google Sheets |
+| **[Mistral_7B_AirQuality_LoRA](https://github.com/Jerome-openclassroom/Mistral_7B_AirQuality_LoRA)** | Fine-tuning QLoRA 4 bits de Mistral-7B pour l’analyse conjointe de la qualité de l’air, de la météo et de la santé humaine. Modèle open-source français, publié sur Hugging Face. | Mistral-7B, QLoRA, Transformers, Pandas |
 
 ---
 
@@ -91,6 +92,7 @@ Tous les projets sont sous **licence MIT**, sauf mention contraire.
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `LLM`, `GPT-4`, `Mistral-7B`, `fine-tuning`, `LoRA`, `QLoRA`, `agents autonomes`, `orchestration IA`, `LangChain`, `Make.com`, `n8n`, `workflow intelligent`, `OCR`, `CNN`, `analyse de sentiment`, `vector store`, `RAG`, `Gradio`, `automatisation`, `intégration API`, `IA appliquée`
+
 
 
 
