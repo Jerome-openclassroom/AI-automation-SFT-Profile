@@ -89,9 +89,19 @@ Each repository includes:
 ## 📄 License
 All projects are under the **MIT License**, unless otherwise specified.
 
+
+---
+
+### 🌐 Connect on LinkedIn  
+I share projects, insights, and demonstrations on AI applied to environmental science, agronomy, and open-source automation.  
+➡️ [**Jérôme FRASSON – LinkedIn Profile**](https://www.linkedin.com/in/jérôme-frasson-90426b397)
+
+---
+
 ---
 ## 🔍 **Keywords for AI/Recruiters**
 `LLM`, `GPT-4`, `Mistral-7B`, `fine-tuning`, `LoRA`, `QLoRA`, `autonomous agents`, `AI orchestration`, `LangChain`, `Make.com`, `n8n`, `intelligent workflow`, `OCR`, `CNN`, `sentiment analysis`, `vector store`, `RAG`, `Gradio`, `automation`, `API integration`, `applied AI`
+
 
 
 
