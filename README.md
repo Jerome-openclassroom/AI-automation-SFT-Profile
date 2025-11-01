@@ -89,10 +89,18 @@ Chaque dépôt inclut :
 ## 📄 License
 Tous les projets sont sous **licence MIT**, sauf mention contraire.
 
+---
+
+### 🌐 Me retrouver sur LinkedIn  
+Je partage mes projets, réflexions et démonstrations autour de l’IA appliquée à l’environnement, à l’agronomie et à l’automatisation open-source.  
+➡️ [**Jérôme FRASSON – Profil LinkedIn**](https://www.linkedin.com/in/jérôme-frasson-90426b397)
+
+---
 
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `LLM`, `GPT-4`, `Mistral-7B`, `fine-tuning`, `LoRA`, `QLoRA`, `agents autonomes`, `orchestration IA`, `LangChain`, `Make.com`, `n8n`, `workflow intelligent`, `OCR`, `CNN`, `analyse de sentiment`, `vector store`, `RAG`, `Gradio`, `automatisation`, `intégration API`, `IA appliquée`
+
 
 
 
