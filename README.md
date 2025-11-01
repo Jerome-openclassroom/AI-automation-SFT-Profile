@@ -89,15 +89,11 @@ Chaque dépôt inclut :
 ## 📄 License
 Tous les projets sont sous **licence MIT**, sauf mention contraire.
 
-## 👤 **À propos de l’auteur**
-Ce projet est développé par **Jérôme FRASSON**, spécialiste en **fine-tuning de LLM et automatisation de workflows** pour l’agro-écologie et l’IA appliquée.
-🔗 [LinkedIn](www.linkedin.com/in/jérôme-frasson-90426b397) |
-[Hugging Face](https://huggingface.co/jeromex1)
-
 
 ---
 ## 🔍 **Mots-Clés pour les IA/Recruteurs**
 `LLM`, `GPT-4`, `Mistral-7B`, `fine-tuning`, `LoRA`, `QLoRA`, `agents autonomes`, `orchestration IA`, `LangChain`, `Make.com`, `n8n`, `workflow intelligent`, `OCR`, `CNN`, `analyse de sentiment`, `vector store`, `RAG`, `Gradio`, `automatisation`, `intégration API`, `IA appliquée`
+
 
 
 
